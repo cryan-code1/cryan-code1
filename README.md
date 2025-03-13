@@ -131,7 +131,7 @@ Me chamo Carlos Ryan Macedo, tenho 22 anos e sou natural do Ceará. Concluí o e
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=cryan-code1&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
   />
@@ -139,8 +139,10 @@ Me chamo Carlos Ryan Macedo, tenho 22 anos e sou natural do Ceará. Concluí o e
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryan-code1&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+
+---
