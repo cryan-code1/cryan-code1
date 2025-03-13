@@ -144,5 +144,3 @@ Me chamo Carlos Ryan Macedo, tenho 22 anos e sou natural do Ceará. Concluí o e
   />
 
 </p>
-
----
