@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Carlos Ryan Macedo, tenho 22 anos e sou natural do Ceará. Concluí o ensino médio no EEEP Maria Eudes Veras, com o curso técnico em Redes de computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unopar. Sou vislumbrado por tecnologia .
+Prazer, Ryan! Então, sou um jovem cheio de ambições e paixão pela tecnologia. Natural do Ceará, concluiu o ensino médio na EEEP Maria Eudes Veras, mergulhando no universo da tecnologia com o curso técnico em Redes de Computadores. Agora, como estudante de Análise e Desenvolvimento de Sistemas na Unopar, continua explorando ainda mais esse mundo de possibilidades. Sempre fui apaixonado por tecnologia e cada vez mais me encanto com as infinitas possibilidades que ela oferece. Sigo aprendendo e explorando esse universo que me inspira todos os dias🤖💻
 
 <p align="left">
     <a href="https://github.com/cryan-code1?tab=stars">
