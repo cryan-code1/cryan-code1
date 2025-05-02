@@ -2,7 +2,9 @@
 
 **`Desenvolvedora FullStack`**
 
-Prazer, Ryan! Então, sou um jovem cheio de ambições e paixão pela tecnologia. Natural do Ceará, concluiu o ensino médio na EEEP Maria Eudes Veras, mergulhando no universo da tecnologia com o curso técnico em Redes de Computadores. Agora, como estudante de Análise e Desenvolvimento de Sistemas na Unopar, continua explorando ainda mais esse mundo de possibilidades. Sempre fui apaixonado por tecnologia e cada vez mais me encanto com as infinitas possibilidades que ela oferece🤖💻
+Sou Desenvolvedor Web com mais de 3 anos de experiência, especializado em backend com .NET Core e C#. Tenho forte domínio em construção de APIs RESTful, microsserviços e testes automatizados com xUnit. Trabalho com princípios sólidos de engenharia de software (SOLID, POO, Design Patterns) e utilizo Git e metodologias ágeis (Scrum) no dia a dia.
+
+Tenho experiência com bancos de dados SQL Server e MongoDB, além de ferramentas como Azure DevOps e BenchmarkDotNet. No frontend, atuei em melhorias de interface usando HTML, CSS, JavaScript e Bootstrap. Atualmente curso Análise e Desenvolvimento de Sistemas e estou em constante evolução, com foco em arquitetura de sistemas escaláveis e entrega de soluções de alto valor.🤖💻
 
 <p align="left">
     <a href="https://github.com/cryan-code1?tab=stars">
