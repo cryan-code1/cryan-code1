@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Cryan.Code
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Sou Desenvolvedor Web com mais de 3 anos de experiência, especializado em backend com .NET Core e C#. Tenho forte domínio em construção de APIs RESTful, microsserviços e testes automatizados com xUnit. Trabalho com princípios sólidos de engenharia de software (SOLID, POO, Design Patterns) e utilizo Git e metodologias ágeis (Scrum) no dia a dia.
 
